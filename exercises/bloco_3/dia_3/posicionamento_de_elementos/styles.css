@@ -12,6 +12,8 @@
 
 .baloon {
     width: 220px;
+    position: absolute;
+    left: 750px;
 }
 
 .word {
